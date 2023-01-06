@@ -1,0 +1,5 @@
+# Community
+[community_join]
+other = "My custom {{ .Site.Title }} community text"
+[community_introduce]
+other = "Bimble bimble bimble!"
